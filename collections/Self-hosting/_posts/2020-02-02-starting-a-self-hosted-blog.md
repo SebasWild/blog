@@ -7,7 +7,9 @@ excerpt: >
 categories: 
     - Self-hosting
 tags:
+    - Docker
     - Self-hosting
+    - CI/CD
     - Jekyll
 ---
 
@@ -30,7 +32,7 @@ As I figure out & create my site, I will write some blogs detailing the entire s
 2. __Docker__: Will run Jekyll & a web server in a container for easy local environment and production deployment.
 3. __Server__: Probably a DigitalOcean droplet or cheap dedicated server.
 4. __CI/CD__: GitHub actions to build, lint, and deploy the site automatically.
-5. __CDN__: CloudFlare to provide a speedy site.
+5. __CDN__: Cloudflare to provide a speedy site.
 
 ## Related Posts
 
